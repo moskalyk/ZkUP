@@ -10,3 +10,5 @@ TODO: Chainlink minimal viable with pearl, and use `function setData(bytes32[] m
 
 ## Inspiration
 ![](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.esotericmeanings.com%2Fwp-content%2Fuploads%2F2016%2F01%2FaceofcupsHD-thothtarotcard.jpg&f=1&nofb=1&ipt=8a9dcc10b900a3a5a19bf83ab19e6de9425a56756381041062bd085cc2c27885&ipo=images)
+
+![lets play](https://www.youtube.com/watch?v=D4hAVemuQXY)
