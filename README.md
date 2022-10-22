@@ -8,6 +8,8 @@ Then use a bridge to Uqbar for more complex operations (like a FFT) where state 
 ## Use case
 TODO: Chainlink minimal viable with pearl, and use `function setData(bytes32[] memory keys, bytes[] memory values) external;` as a signal from bio-rhythms.
 
+Build a device for Notifications using ![Push](https://docs.epns.io/users) for global notifications using ![LSP-1-UniversalReceiver](https://github.com/lukso-network/LIPs/blob/main/LSPs/LSP-1-UniversalReceiver.md) where subscriptions are as simple as a numerology tx sent to a moderators address, managed by a Human.
+
 ## Inspiration
 ![](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.esotericmeanings.com%2Fwp-content%2Fuploads%2F2016%2F01%2FaceofcupsHD-thothtarotcard.jpg&f=1&nofb=1&ipt=8a9dcc10b900a3a5a19bf83ab19e6de9425a56756381041062bd085cc2c27885&ipo=images)
 
